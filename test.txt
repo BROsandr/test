@@ -1,10 +1,2 @@
-hello
-
-good
-
-other
-
-else
-change
-another
-fgf
+absolute new text
+text
